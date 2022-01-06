@@ -18,7 +18,7 @@ tagline: A Jekyll template for course websites
 description: A modern, highly customizable, responsive Jekyll template for course websites
 author: Kevin Lin
 baseurl: '/spring2022' # the subpath of your site, e.g. /blog
-url: 'gened1125.github.io' # the base hostname & protocol for your site, e.g. http://example.com
+url: 'https://gened1125.github.io' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
 
 # Theme settings
