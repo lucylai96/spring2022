@@ -13,9 +13,9 @@
 # you will see them accessed via {{ site.title }}, {{ site.github_repo }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Artificial and Natural Intelligence
-tagline: What is intelligence?
-description: A modern, highly customizable, responsive Jekyll template for course websites
+title: GenEd 1125
+tagline: Artificial and Natural Intelligence
+description: What does it mean for a machine to be intelligent, how does current artificial intelligence compare with animal intelligence, and should we be worried?
 author: Lucy Lai
 baseurl: '/spring2022' # the subpath of your site, e.g. /blog
 url: 'https://gened1125.github.io' # the base hostname & protocol for your site, e.g. http://example.com
