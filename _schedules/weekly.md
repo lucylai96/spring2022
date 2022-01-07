@@ -19,6 +19,7 @@ timeline:
   - '5:00 PM'
   - '5:30 PM'
 schedule:
+  - name: Time (EST)
   - name: Monday
     events:
       - name: Lecture
@@ -40,19 +41,15 @@ schedule:
         start: 3:00 PM
         end: 4:15 PM
         location: Sever Hall 103
-      - name: Section
-        start: 11:30 AM
-        end: 12:30 PM
-        location: 310 Soda
-      - name: Lucy's Office Hours (Virtual)
+      - name: Lucy's Office Hours
         start: 12:30 PM
         end: 2:00 PM
-        location: 271 Soda
+        location: Zoom (Virtual)
   - name: Thursday
   - name: Friday
     events:
       - name: Qianyi's Section
-        start: 11:30 AM
-        end: 12:30 PM
-        location: 310 Soda
+        start: 3:00 PM
+        end: 4:15 PM
+        location: Northwest Building
 ---
