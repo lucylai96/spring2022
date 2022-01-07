@@ -1,6 +1,6 @@
 ---
 name: Lucy Lai
-role: Head Teaching Fellow
+role: Teaching Fellow
 email: lucylai@g.harvard.edu
 website: https://lucy-lai.com
 photo: lucy.jpg
