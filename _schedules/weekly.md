@@ -22,45 +22,37 @@ schedule:
   - name: Monday
     events:
       - name: Lecture
-        start: 9:30 AM
-        end: 10:30 AM
-        location: 150 Wheeler
-      - name: Section
+        start: 3:00 PM
+        end: 4:15 PM
+        location: Sever Hall 103
+      - name: Kumaresh's Section
         start: 11:30 AM
         end: 12:30 PM
         location: 310 Soda
-      - name: Office Hours
-        start: 12:30 PM
-        end: 2:00 PM
-        location: 271 Soda
+      - name: Venki's Office Hours
+        start: 4:15 PM
+        end: 5:00 PM
+        location: Sever Hall 103
   - name: Tuesday
   - name: Wednesday
     events:
       - name: Lecture
-        start: 9:30 AM
-        end: 10:30 AM
-        location: 150 Wheeler
+        start: 3:00 PM
+        end: 4:15 PM
+        location: Sever Hall 103
       - name: Section
         start: 11:30 AM
         end: 12:30 PM
         location: 310 Soda
-      - name: Office Hours
+      - name: Lucy's Office Hours (Virtual)
         start: 12:30 PM
         end: 2:00 PM
         location: 271 Soda
   - name: Thursday
   - name: Friday
     events:
-      - name: Lecture
-        start: 9:30 AM
-        end: 10:30 AM
-        location: 150 Wheeler
-      - name: Section
+      - name: Qianyi's Section
         start: 11:30 AM
         end: 12:30 PM
         location: 310 Soda
-      - name: Office Hours
-        start: 12:30 PM
-        end: 2:00 PM
-        location: 271 Soda
 ---
