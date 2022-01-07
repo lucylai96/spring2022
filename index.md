@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Artificial and Natural Intelligence
+title: GenEd 1125
 nav_exclude: true
 seo:
   type: Course
@@ -12,17 +12,8 @@ seo:
 {{ site.description }}
 {: .fs-6 .fw-300 }
 
-{% if site.announcements %}
-{{ site.announcements.last }}
-[Announcements](announcements.md){: .btn .btn-outline .fs-3 }
-{% endif %}
-
-## Artificial and Natural Intelligence
-
-What does it mean for a machine to be intelligent, how does current artificial intelligence compare with animal intelligence, and should we be worried?
-
 ## Quick Links
 
 - a [course calendar](calendar.md),
 - a [staff](staff.md) page,
-- and a weekly [schedule](schedule.md).
+- and a weekly topical [schedule](schedule.md).
