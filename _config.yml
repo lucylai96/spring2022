@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: GenEd 1125
-tagline: Artificial and Natural Intelligence :brain:
+tagline: Artificial and Natural Intelligence
 description: What does it mean for a machine to be intelligent, how does current artificial intelligence compare with animal intelligence, and should we be worried?
 author: Lucy Lai
 baseurl: '/spring2022' # the subpath of your site, e.g. /blog
