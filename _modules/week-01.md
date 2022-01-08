@@ -3,13 +3,14 @@ title: Week 1
 ---
 
 Jan 24
-: [Java & Git](#)
+: [Lecture 1: What is Intelligence?](#)
   : [1.1](#)
 
 Jan 26
-: **Section**{: .label .label-purple }[Intro to Java](#)
+:[Lecture 2: With Great Power Comes Great Responsibility]
+: **PSET1**{: .label .label-red }[Lecture 1-4](#)
   : [Solution](#)
 
-**Section**{: .label .label-purple }
+Section
 : [Variables & Objects](#)
-  : [1.2](#), [2.1](#)
+  : [Notes](#)
