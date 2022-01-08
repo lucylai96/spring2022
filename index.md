@@ -12,8 +12,11 @@ seo:
 {{ site.description }}
 {: .fs-6 .fw-300 }
 
-## Quick Links
+{% assign instructors = site.staffers | where: 'role', 'Instructor' %}
+{% for staffer in instructors %}
+{{ staffer }}
+{% endfor %}
 
-- a [course calendar](calendar.md),
-- a [staff](staff.md) page,
-- and a weekly topical [schedule](schedule.md).
+{% for module in site.modules %}
+{{ module }}
+{% endfor %}
