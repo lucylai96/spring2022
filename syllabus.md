@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Syllabus
+nav_order: 2
 description: >-
     Course policies and information.
 ---
@@ -30,28 +31,47 @@ There are no formal prerequisites to this course, and students do not need to be
 
 ## Assessment
 10% - Lecture attendance / participation*
+
 10% - Section attendance / participation
+
 40% - Problem sets (4 total), 10% each
+
 20% - Mid-term take-home exam
+
 20% - Final paper
 
 *Lectures will be interactive, with discussions throughout. Lectures will also be live-recorded and released after each class.
 
 ## Summary of Important Dates
+
 All problem sets due on Wednesday at 11:59pm 
+
 02/02 - PSet 1 handed out  (Lectures 1-4)
+
 **02/09** - PSet 1 due @ 11:59pm
+
 02/16 - PSet 2 handed out  (Lectures 5-8)
+
 02/22 - Deadline to add / drop a course (fee) and to change from letter-graded to Pass/Fail or vice versa
+
 **02/23** - PSet 2 due @ 11:59pm
+
 03/02 - Midterm (take-home) handed out 
+
 **03/09** - Midterm due @ 11:59pm
+
 03/12 to 03/20 - Spring Break!
+
 03/30 - PSet 3 handed out (Lectures 14-17)
+
 **04/06** - PSet 3 due @ 11:59pm
+
 04/13 - PSet 4 handed out (Lectures 18-21)
+
 **04/20** - PSet 4 due @ 11:59pm
+
 04/27 - Paper proposal due (in Section)
+
 **05/09** - Final paper due
 
 **Late policy:** You are allowed one (1) late pass for problem sets. After that, 1 point will be deducted off your problem set grade for each subsequent day that it is late.
