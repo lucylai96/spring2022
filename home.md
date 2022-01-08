@@ -1,7 +1,8 @@
 ---
 layout: home
 title: GenEd 1125
-nav_exclude: true
+nav_exclude: false
+nav_order: 1
 seo:
   type: Course
   name: Artificial and Natural Intelligence
