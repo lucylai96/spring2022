@@ -1,12 +1,10 @@
 ---
 title: Week 2
 ---
+**Week 2**
 
 Jan 31
-: [Linked Lists & Encapsulation](#)
-  : [3.1](#), [2.2](#), [2.3](#)
+: **LEC 3**{: .label .label-grey } The building blocks of the brain and neural networks
 
 Feb 2
-: **Section**{: .label .label-purple }[Linked Lists](#)
-  : [Solution](#)
-  : **HW 2 due**{: .label .label-red }
+:  **LEC 4**{: .label .label-grey } Guest Lecturer
