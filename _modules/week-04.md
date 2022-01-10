@@ -8,3 +8,4 @@ Feb 14
 
 Feb 16
 :  **LEC 8**{: .label .label-grey } Guest Lecturer
+:  **PSET 2 handed out**{: .label } Covers lectures 5-8
