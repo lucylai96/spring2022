@@ -1,7 +1,6 @@
 ---
 title: Week 2
 ---
-**Week 2**
 
 Jan 31
 : **LEC 3**{: .label .label-grey } The building blocks of the brain and neural networks
