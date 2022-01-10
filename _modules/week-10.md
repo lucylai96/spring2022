@@ -9,3 +9,4 @@ Apr 4
 Apr 6
 : **LEC 19**{: .label .label-grey } [Interpreting Machines](#)
 : **PSET 3 DUE @ 11:59PM**{: .label .label-red } 
+    : [Submit PSET 3](https://canvas.harvard.edu/courses/97916/assignments/532856)
