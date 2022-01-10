@@ -1,1 +1,13 @@
+---
+title: Week 12
+---
+
+Apr 18
+: **LEC 20**{: .label .label-grey } [ Is this the real life? Is this just fantasy?](#)
+
+
+Apr 20
+: **LEC 21**{: .label .label-gray } [What is Consciousness, and Can Machines Have It?](#)
+: **PSET 4 DUE @ 11:59PM**{: .label .label-red }
+
 
