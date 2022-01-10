@@ -8,4 +8,4 @@ Apr 4
 
 Apr 6
 : **LEC 19**{: .label .label-grey } [Interpreting Machines](#)
-: **PSET 3 DUE**{: .label .label-red } 
+: **PSET 3 DUE @ 11:59PM**{: .label .label-red } 
