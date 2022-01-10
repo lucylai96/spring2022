@@ -1,3 +1,3 @@
 ---
-title: Spring Break - 03/12 to 03/20
+title: Spring Break - Mar 12 to Mar 20
 ---
