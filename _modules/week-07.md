@@ -1,7 +1,6 @@
 ---
-title: 
+title: Week 7
 ---
-**Week 7**
 
 Mar 7
 : **LEC 12**{: .label .label-grey } [Natural Language and Communication]
