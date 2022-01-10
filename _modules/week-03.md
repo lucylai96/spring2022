@@ -7,3 +7,4 @@ Feb 7
 
 Feb 9
 :  **LEC 6**{: .label .label-grey } Guest Lecturer
+:  **PSET 1 DUE**{: .label .label-red }
