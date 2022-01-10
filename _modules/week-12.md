@@ -7,7 +7,7 @@ Apr 18
 
 
 Apr 20
-: **LEC 21**{: .label .label-gray } [What is Consciousness, and Can Machines Have It?](#)
+: **LEC 21**{: .label .label-grey } [What is Consciousness, and Can Machines Have It?](#)
 : **PSET 4 DUE @ 11:59PM**{: .label .label-red }
 
 
