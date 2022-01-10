@@ -56,6 +56,6 @@ schedule:
         location: Northwest Building
       - name: Section
         start: 4:15 PM
-        end: 5:00 PM
+        end: 5:30 PM
         location: Northwest Building
 ---
