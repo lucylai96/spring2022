@@ -8,5 +8,5 @@ Jan 24
 Jan 26
 : **LEC 2**{: .label .label-grey} [With Great Power Comes Great Responsibility](#)
 
-**Section**
+Section
 : Introduction
