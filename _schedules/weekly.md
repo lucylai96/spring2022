@@ -26,29 +26,31 @@ schedule:
         start: 3:00 PM
         end: 4:15 PM
         location: Sever Hall 103
-      - name: Kumaresh's Section
-        start: 11:30 AM
-        end: 12:30 PM
-        location: 310 Soda
-      - name: Venki's Office Hours
+      - name: Office Hours
         start: 4:15 PM
         end: 5:00 PM
         location: Sever Hall 103
   - name: Tuesday
+    events:
+      - name: Section
+        start: 4:15 PM
+        end: 5:00 PM
+        location: Biolabs
   - name: Wednesday
     events:
       - name: Lecture
         start: 3:00 PM
         end: 4:15 PM
         location: Sever Hall 103
-      - name: Lucy's Office Hours
-        start: 12:30 PM
-        end: 2:00 PM
-        location: Zoom (Virtual)
   - name: Thursday
+    events:
+      - name: Section
+        start: 4:15 PM
+        end: 5:00 PM
+        location: Biolabs
   - name: Friday
     events:
-      - name: Qianyi's Section
+      - name: Section
         start: 3:00 PM
         end: 4:15 PM
         location: Northwest Building
