@@ -1,7 +1,6 @@
 ---
-title: 
+title: Week 8
 ---
-**Week 8**
 
 Mar 21
 : **LEC 14**{: .label .label-grey } [Reinforcement Learning: Learning Actions and Values]
