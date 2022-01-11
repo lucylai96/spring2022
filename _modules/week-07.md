@@ -10,3 +10,6 @@ Mar 9
 :  **LEC 13**{: .label .label-grey } [Understanding Language](#)
 :  **MIDTERM DUE @ 11:59PM**{: .label .label-red }
     : [Submit MIDTERM](https://canvas.harvard.edu/courses/97916/assignments/532853)
+
+Section
+:
