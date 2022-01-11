@@ -8,3 +8,6 @@ Jan 31
 Feb 2
 :  **LEC 4**{: .label .label-grey } Guest Lecturer
 :  **PSET 1 handed out**{: .label .label-green } Covers lectures 1-4
+
+Section
+: 
