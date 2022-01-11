@@ -9,3 +9,6 @@ Feb 28
 Mar 2
 :  **LEC 11**{: .label .label-grey } Guest Lecturer
 :  **(Take-home) MIDTERM handed out**{: .label .label-green } 
+
+Section
+:
