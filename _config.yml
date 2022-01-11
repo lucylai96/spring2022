@@ -74,5 +74,3 @@ compress_html:
 
 plugins:
   - jekyll-seo-tag
-  - jemoji
-  - emoji-cheat-sheet
