@@ -10,3 +10,5 @@ Apr 13
 : **LEC 21**{: .label .label-grey } [Algorithmic Bias](#)
 : **PSET 4 handed out**{: .label .label-green } Covers lectures 18-21
 
+Section
+:
