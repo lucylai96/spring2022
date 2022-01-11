@@ -32,10 +32,7 @@ schedule:
         location: Sever Hall 103
   - name: Tuesday
     events:
-      - name: Section
-        start: 4:15 PM
-        end: 5:30 PM
-        location: Biolabs
+     
   - name: Wednesday
     events:
       - name: Lecture
@@ -44,18 +41,9 @@ schedule:
         location: Sever Hall 103
   - name: Thursday
     events:
-      - name: Section
-        start: 4:15 PM
-        end: 5:30 PM
-        location: Biolabs
+    
   - name: Friday
     events:
-      - name: Section
-        start: 3:00 PM
-        end: 4:15 PM
-        location: Northwest Building
-      - name: Section
-        start: 4:15 PM
-        end: 5:30 PM
-        location: Northwest Building
+      
+      
 ---
