@@ -49,7 +49,13 @@ There are no formal prerequisites to this course, and students do not need to be
 20% - Final paper     
 *Lectures will be interactive, with discussions throughout. Lectures will also be live-recorded and released after each class.
 
-## Summary of Important Dates ‼️
+## Collaboration and Academic Integrity 👨🏻‍💻
+Discussion and the exchange of ideas are essential to doing academic work. For assignments in this course, you are encouraged to consult with your classmates as you work on problem sets and exercises. However, after discussions with peers and/or TFs, make sure that you can work through the problem yourself and ensure that any answers you submit for evaluation are the result of your own efforts. If any books, articles, websites, lectures, etc that have significantly helped you with your work, please use appropriate citation practices. Be sure to familiarize yourself with the [Harvard honor code](https://honor.fas.harvard.edu/honor-code), and follow it.
+
+## Academic Accommodations 🤝
+Any student needing academic adjustments or accommodations is requested to present their letter from the [Accessible Education Office (AEO)](https://aeo.fas.harvard.edu/) and speak with the professor by the end of the second week of the term. Failure to do so may result in the course head's inability to respond in a timely manner.  All discussions will remain confidential, although AEO may be consulted to discuss appropriate implementation.
+
+## Summary of Important Dates❗️
 All problem sets due on Wednesday at 11:59pm     
 02/02 - PSet 1 handed out  (Lectures 1-4)     
 **02/09** - PSet 1 due @ 11:59pm     
@@ -67,3 +73,4 @@ All problem sets due on Wednesday at 11:59pm
 **05/09** - Final paper due
 
 **Late policy:** You are allowed one (1) late pass for problem sets. After that, 1 point will be deducted off your problem set grade for each subsequent day that it is late.
+
