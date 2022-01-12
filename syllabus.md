@@ -17,6 +17,8 @@ description: >-
 
 ---
 
+Here is a [PDF version](/files/syllabus.pdf) of the course schedule and syllabus.
+
 ## About 🧠
 What is intelligence? An inquiry into the nature of intelligence can take different forms – philosophical, biological, mathematical or technological. In this course, we will use machine intelligence (everything from voice recognizing smartphones to game-playing computers) as a handle to think about natural intelligence (brains and behavior of animals). Although we will start with big, general questions, we will quickly move to concrete queries about brains and computers. This approach, rather than just starting with brains of animals, may be useful in framing more universal questions independent of the specific architecture of brains of animals. As machines increasingly perform tasks that were once thought to be solely in the domain of humans, there is an urgent need for discussions of the moral and societal implications of artificial intelligence. This course targets students interested in brains and computers in equal measure, and who are comfortable discussing ethical concerns.
 
