@@ -3,7 +3,7 @@ title: Week 2
 ---
 
 Jan 31
-: **LEC 3**{: .label .label-grey } [The Building Blocks of the Brain and Neural Networks](#)
+: **LEC 3**{: .label .label-grey } [The Building Blocks of the Brain](#)
 
 Feb 2
 :  **LEC 4**{: .label .label-grey } Guest Lecturer
