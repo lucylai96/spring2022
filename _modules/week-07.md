@@ -1,5 +1,5 @@
 ---
-title: Week 7
+title: Week 7 - Language in Brains and Machines
 ---
 
 Mar 7
