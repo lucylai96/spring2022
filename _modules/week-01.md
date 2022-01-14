@@ -1,5 +1,5 @@
 ---
-title: Week 1
+title: Week 1 - Introduction
 ---
 
 Jan 24
