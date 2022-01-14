@@ -7,7 +7,7 @@ Mar 21
 
 
 Mar 23
-:  **LEC 15**{: .label .label-grey } [RL in the brain: the computational role of Dopamine](#)
+:  **LEC 15**{: .label .label-grey } [RL in the Brain: The Computational Role of Dopamine](#)
 
 Section
 :
