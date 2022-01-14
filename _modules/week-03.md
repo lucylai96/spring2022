@@ -11,4 +11,4 @@ Feb 9
     : [Submit PSET 1](https://canvas.harvard.edu/courses/97916/assignments/532854)
 
 Section
-: 
+: PSET 1 help
