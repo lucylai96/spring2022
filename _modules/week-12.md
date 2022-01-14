@@ -3,7 +3,7 @@ title: Week 12
 ---
 
 Apr 18
-: **LEC 22**{: .label .label-grey } [ Is this the real life? Is this just fantasy?](#)
+: **LEC 22**{: .label .label-grey } [ Is This The Real Life? Is This Just Fantasy?](#)
 
 
 Apr 20
