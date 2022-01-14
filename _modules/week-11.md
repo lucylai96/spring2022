@@ -11,4 +11,4 @@ Apr 13
 : **PSET 4 handed out**{: .label .label-green } Covers lectures 18-21
 
 Section
-:
+: Discuss PSET 3
