@@ -1,5 +1,5 @@
 ---
-title: Week 5
+title: Week 5 - Learning to Represent
 ---
 
 Feb 21
