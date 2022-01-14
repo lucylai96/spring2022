@@ -3,7 +3,7 @@ title: Week 13
 ---
 
 Apr 25
-: **LEC 24**{: .label .label-grey } [Building Machines that Think Like Humans](#)
+: **LEC 24**{: .label .label-grey } [Building Machines That Think Like Humans](#)
 
 
 Apr 27
