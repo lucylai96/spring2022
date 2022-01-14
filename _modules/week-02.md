@@ -10,4 +10,5 @@ Feb 2
 :  **PSET 1 handed out**{: .label .label-green } Covers lectures 1-4
 
 Section
-: 
+: Section begins this week!
+: Introduction, purpose of section
