@@ -3,7 +3,7 @@ title: Week 6
 ---
 
 Feb 28
-: **LEC 10**{: .label .label-grey } [Dimensionality reduction and invariant representations](#)
+: **LEC 10**{: .label .label-grey } [Dimensionality Reduction and Invariant Representations](#)
 
 
 Mar 2
