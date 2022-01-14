@@ -11,4 +11,4 @@ Feb 16
 :  **PSET 2 handed out**{: .label .label-green} Covers lectures 5-8
 
 Section
-: 
+: Discuss PSET 1
