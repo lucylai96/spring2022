@@ -10,6 +10,7 @@ Apr 27
 : **Course Summary & Feedback**
 
 Section
+: Discuss PSET 4
 : Final paper topic idea due to section leader this week
 : Present 1 slide of your paper topic / rough outline
 : **FINAL PAPER DUE 05/09 @ 11:59pm**{: .label .label-red }
