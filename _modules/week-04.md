@@ -1,5 +1,5 @@
 ---
-title: Week 4
+title: Week 4 - The Building Blocks of Biological and Artificial Intelligence (Cont'd)
 ---
 
 Feb 14
