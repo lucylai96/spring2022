@@ -1,5 +1,5 @@
 ---
-title: Week 8
+title: Week 8 - Learning to Act
 ---
 
 Mar 21
