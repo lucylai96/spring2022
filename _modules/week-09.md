@@ -1,5 +1,5 @@
 ---
-title: Week 9
+title: Week 9 - Applications
 ---
 
 Mar 28
