@@ -1,5 +1,5 @@
 ---
-title: Week 11
+title: Week 11 - The Limits of Intelligence
 ---
 
 Apr 11
