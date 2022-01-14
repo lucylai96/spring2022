@@ -11,4 +11,4 @@ Mar 2
 :  **(Take-home) MIDTERM handed out**{: .label .label-green } 
 
 Section
-:
+: Discuss PSET 2
