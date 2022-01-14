@@ -1,5 +1,5 @@
 ---
-title: Week 10
+title: Week 10 - What Does The Black Box Do?
 ---
 
 Apr 4
