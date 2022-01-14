@@ -12,4 +12,4 @@ Mar 9
     : [Submit MIDTERM](https://canvas.harvard.edu/courses/97916/assignments/532853)
 
 Section
-:
+: Midterm clarifications
