@@ -1,5 +1,5 @@
 ---
-title: Week 2
+title: Week 2 - The Building Blocks of Biological and Artificial Intelligence 
 ---
 
 Jan 31
