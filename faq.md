@@ -9,7 +9,7 @@ description: >-
 # FAQ
 {:.no_toc}
 
-Please check this page as well as the syllabus to see if your question has been answered **before** reaching out to [Prof. Murthy](mailto:vnmurthy@fas.harvard.edu) and [Lucy](mailto:lucylai@g.harvard.edu). If you don't see your question here, please email **both** of us!
+This page is for frequently asked questions. Please check this page as well as the [syllabus](https://gened1125.github.io/spring2022/syllabus/) to see if your question has already been answered **before** reaching out to [Prof. Murthy](mailto:vnmurthy@fas.harvard.edu) and [Lucy](mailto:lucylai@g.harvard.edu). If you don't see your question here, please email **both** of us!
 
 ## Table of contents
 {: .no_toc .text-delta }
