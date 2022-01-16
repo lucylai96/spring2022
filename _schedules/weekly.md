@@ -32,18 +32,36 @@ schedule:
         location: Sever Hall 103
   - name: Tuesday
     events:
-     
   - name: Wednesday
     events:
       - name: Lecture
         start: 3:00 PM
         end: 4:15 PM
         location: Sever Hall 103
+      - name: Section
+        start: 4:30 PM
+        end: 5:45 PM
+        location: Sever Hall
   - name: Thursday
     events:
-    
+      - name: Section
+        start: 10:30 AM
+        end: 11:45 AM
+        location: Biolabs
+      - name: Section
+        start: 4:30 PM
+        end: 5:45 PM
+        location: Northwest Building
   - name: Friday
     events:
+      - name: Section
+        start: 3:00 PM
+        end: 4:15 PM
+        location: SCRB
+      - name: Office Hours
+        start: 4:00 PM
+        end: 5:15 PM
+        location: Quincy DHall / Zoom
       
       
 ---
