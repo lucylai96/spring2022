@@ -30,7 +30,7 @@ Lectures are held every Monday and Wednesday from 3-4:15PM in Sever Hall 103. Le
 Sections will be held by the course TFs on different days of the week. Section will be a mix of content review, group discussion, and going over problem sets. At the beginning of the semester, every student will be assigned a section (by rank-order preference) and section attendance is mandatory and part of your final grade. You must attend your own section to recieve credit. If you need to miss section for whatever reason, please email your section TF so that you can get caught up on the material for that week.
 
 ## Office Hours  ⏰
-Part of section every week will be dedicated to answering questions and clarifying course content. If extra office hours are needed, the Head TF will hold office hours.
+Part of section every week will be dedicated to answering questions and clarifying course content. Extra office hours will be held by Prof. Murthy and the Head TF, Lucy. 
 
 ## Class Notes 🗒️
 Class notes and material will be released and linked on the course website.
@@ -52,12 +52,6 @@ There are no formal prerequisites to this course, and students do not need to be
 
 *Lectures will be interactive, with discussions throughout. Lectures will also be live-recorded and released after each class.
 
-## Collaboration and Academic Integrity 👨🏻‍💻
-Discussion and the exchange of ideas are essential to doing academic work. For assignments in this course, you are encouraged to consult with your classmates as you work on problem sets and exercises. However, after discussions with peers and/or TFs, make sure that you can work through the problem yourself and ensure that any answers you submit for evaluation are the result of your own efforts. If any books, articles, websites, lectures, etc that have significantly helped you with your work, please use appropriate citation practices. Be sure to familiarize yourself with the [Harvard honor code](https://honor.fas.harvard.edu/honor-code), and follow it.
-
-## Academic Accommodations 🤝
-Any student needing academic adjustments or accommodations is requested to present their letter from the [Accessible Education Office (AEO)](https://aeo.fas.harvard.edu/) and speak with the professor by the end of the second week of the term. Failure to do so may result in the course head's inability to respond in a timely manner.  All discussions will remain confidential, although AEO may be consulted to discuss appropriate implementation.
-
 ## Summary of Important Dates❗️
 All problem sets due on Friday at 11:59pm     
 | Date           | Event                                                                                             |
@@ -78,4 +72,10 @@ All problem sets due on Friday at 11:59pm
 | **05/09**      | Final paper due                                                                                   |
 
 **Late policy:** You are allowed one (1) late pass for problem sets. After that, 1 point will be deducted off your problem set grade for each subsequent day that it is late.
+
+## Collaboration and Academic Integrity 👨🏻‍💻
+Discussion and the exchange of ideas are essential to doing academic work. For assignments in this course, you are encouraged to consult with your classmates as you work on problem sets and exercises. However, after discussions with peers and/or TFs, make sure that you can work through the problem yourself and ensure that any answers you submit for evaluation are the result of your own efforts. If any books, articles, websites, lectures, etc that have significantly helped you with your work, please use appropriate citation practices. Be sure to familiarize yourself with the [Harvard honor code](https://honor.fas.harvard.edu/honor-code), and follow it.
+
+## Academic Accommodations 🤝
+Any student needing academic adjustments or accommodations is requested to present their letter from the [Accessible Education Office (AEO)](https://aeo.fas.harvard.edu/) and speak with the professor by the end of the second week of the term. Failure to do so may result in the course head's inability to respond in a timely manner.  All discussions will remain confidential, although AEO may be consulted to discuss appropriate implementation.
 
