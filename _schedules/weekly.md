@@ -19,7 +19,6 @@ timeline:
   - '5:00 PM'
   - '5:30 PM'
 schedule:
-  - name: Time (EST)
   - name: Monday
     events:
       - name: Lecture
