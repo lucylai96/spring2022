@@ -41,4 +41,4 @@ Pass / failing and auditing is by instructor permission only and under limited c
 Both Prof. Murthy and Lucy will host weekly office hours. Prof. Murthy's office hours will be XXX, and Lucy's will be Friday, 4:15-5:15PM in the Quincy DHall and by [Zoom](https://harvard.zoom.us/my/lucylai/).
 
 ## Can I turn in my assignment late and still get credit?
-The late policy says that you will get 1 point deducted for every day that it is late. For example, if the PSET is due Friday and you turn it in on Monday, you will be deducted 3 points from your final score. Remember, each PSET is worth a total of 10 points. The latest you can turn a PSET in and still recieve credit (with the late penalties) is next Wednesday @ 11:59PM.
+The late policy says that you will get 1 point deducted for every day that it is late. For example, if the PSET is due Friday and you turn it in on Monday, you will be deducted 3 points from your final score. Remember, each PSET is worth a total of 10 points. The latest you can turn a PSET in and still recieve credit (with the late penalties) is the Wednesday after the PSET is due @ 11:59PM.
