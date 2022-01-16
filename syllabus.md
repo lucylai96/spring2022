@@ -42,11 +42,13 @@ Problem sets will be a mix of short-form discussion questions and simple technic
 There are no formal prerequisites to this course, and students do not need to be from a technical or science background. Some basic high school math may be required for some problem sets.
 
 ## Assessment 💯
-10% - Lecture attendance / participation*  
-10% - Section attendance / participation      
-40% - Problem sets (4 total), 10% each     
-20% - Mid-term take-home exam     
-20% - Final paper     
+|  %  | Course Component                    |
+|-----|-------------------------------------|
+| 10% | Lecture attendance / participation* |
+| 10% | Section attendance / participation  |
+| 40% | Problem sets (4 total), 10% each    |
+| 20% | Mid-term take-home exam             |
+| 20% | Final paper / project               |
 *Lectures will be interactive, with discussions throughout. Lectures will also be live-recorded and released after each class.
 
 ## Collaboration and Academic Integrity 👨🏻‍💻
@@ -56,21 +58,23 @@ Discussion and the exchange of ideas are essential to doing academic work. For a
 Any student needing academic adjustments or accommodations is requested to present their letter from the [Accessible Education Office (AEO)](https://aeo.fas.harvard.edu/) and speak with the professor by the end of the second week of the term. Failure to do so may result in the course head's inability to respond in a timely manner.  All discussions will remain confidential, although AEO may be consulted to discuss appropriate implementation.
 
 ## Summary of Important Dates❗️
-All problem sets due on Wednesday at 11:59pm     
-02/02 - PSet 1 handed out  (Lectures 1-4)     
-**02/09** - PSet 1 due @ 11:59pm     
-02/16 - PSet 2 handed out  (Lectures 5-8)     
-02/22 - Deadline to add / drop a course (fee) and to change from letter-graded to Pass/Fail or vice versa     
-**02/23** - PSet 2 due @ 11:59pm     
-03/02 - Midterm (take-home) handed out     
-**03/09** - Midterm due @ 11:59pm     
-03/12 to 03/20 - Spring Break!     
-03/30 - PSet 3 handed out (Lectures 14-17)     
-**04/06** - PSet 3 due @ 11:59pm     
-04/13 - PSet 4 handed out (Lectures 18-21)     
-**04/20** - PSet 4 due @ 11:59pm     
-04/27 - Paper proposal due (in Section)     
-**05/09** - Final paper due
+All problem sets due on Friday at 11:59pm     
+| Date           | Event                                                                                             |
+|----------------|---------------------------------------------------------------------------------------------------|
+| 02/02          | PSet 1 handed out (Lectures 1-4)                                                                  |
+| **02/11**      | PSet 1 due @ 11:59pm                                                                              |
+| 02/16          | PSet 2 handed out (Lectures 5-8)                                                                  |
+| 02/22          | Deadline to add / drop a course (fee) and to change from letter-graded to Pass/Fail or vice versa |
+| **02/25**      | PSet 2 due @ 11:59pm                                                                              |
+| 03/02          | Midterm (take-home) handed out                                                                    |
+| **03/11**      | Midterm due @ 11:59pm                                                                             |
+| 03/12 to 03/20 | Spring Break!                                                                                     |
+| 03/30          | PSet 3 handed out (Lectures 14-17)                                                                |
+| **04/08**      | PSet 3 due @ 11:59pm                                                                              |
+| 04/13          | PSet 4 handed out (Lectures 18-21)                                                                |
+| **04/22**      | PSet 4 due @ 11:59pm, paper proposal due (in Section)                                             |
+| 04/27          | Paper proposal due (in Section)                                                                   |
+| **05/09**      | Final paper due                                                                                   |
 
 **Late policy:** You are allowed one (1) late pass for problem sets. After that, 1 point will be deducted off your problem set grade for each subsequent day that it is late.
 
