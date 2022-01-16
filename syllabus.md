@@ -42,6 +42,7 @@ Problem sets will be a mix of short-form discussion questions and simple technic
 There are no formal prerequisites to this course, and students do not need to be from a technical or science background. Some basic high school math may be required for some problem sets.
 
 ## Assessment 💯
+
 |  %  | Course Component                    |
 |-----|-------------------------------------|
 | 10% | Lecture attendance / participation* |
@@ -53,7 +54,8 @@ There are no formal prerequisites to this course, and students do not need to be
 *Lectures will be interactive, with discussions throughout. Lectures will also be live-recorded and released after each class.
 
 ## Summary of Important Dates❗️
-All problem sets due on Friday at 11:59pm     
+All problem sets due on Friday at 11:59pm
+
 | Date           | Event                                                                                             |
 |----------------|---------------------------------------------------------------------------------------------------|
 | 02/02          | PSet 1 handed out (Lectures 1-4)                                                                  |
