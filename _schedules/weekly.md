@@ -23,10 +23,6 @@ schedule:
         start: 3:00 PM
         end: 4:15 PM
         location: Sever Hall 103
-      - name: Office Hours
-        start: 4:15 PM
-        end: 5:30 PM
-        location: Sever Hall 103
   - name: Tuesday
     events:
   - name: Wednesday
@@ -56,7 +52,7 @@ schedule:
         end: 4:15 PM
         location: SCRB
       - name: Office Hours
-        start: 4:00 PM
+        start: 4:15 PM
         end: 5:15 PM
         location: Quincy DHall / Zoom
       
