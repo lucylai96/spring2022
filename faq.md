@@ -20,7 +20,9 @@ This page is for frequently asked questions. Please check this page as well as t
 ---
 
 ## What happens if I test positive for COVID during the semester and can't attend class / section?
-_Under construction._
+Unfortunately, we must all be prepared for this to happen. If you test positive for COVID, please email [Prof. Murthy](mailto:vnmurthy@fas.harvard.edu) and [Lucy](mailto:lucylai@g.harvard.edu) as well as your Section TF (if you will be missing section that week) due to mandatory isolation (you can forward the email you recieve from HUHS). Since lectures will be recorded, you can access and watch class content at a later date. We will also do our best to accommodate and adjust pset due dates, making sure that you have enough time to recover and complete assignments. If you will also be missing section, you can either ask your Section TF to record section or provide you with section material. If you happen to be asymptomatic or feeling well enough to participate in section, you can ask your TF to Zoom into section, if possible.
+
+We hope that you all can help each other during these times as well: It's helpful to identify several people within your section that you can contact to fill you in on course or section material in the case that you cannot attend. For more information on COVID exposure and isolation policies, please visit [this page](https://www.harvard.edu/coronavirus/testing-tracing/exposure-quarantine-isolation/).
 
 ## Can I take this course if I'm not from a computer science or neuroscience background?
 Yes! This course is supposed to be an **introduction** to topics in artificial and natural intelligence. We've had students from all kinds of concentations take this course, including Social Studies, Government, and East Asian Studies. We really value all kinds of perspectives in our discussions, especially when we talk about controversial topics, for example, the ethics of AI!
