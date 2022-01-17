@@ -50,7 +50,7 @@ schedule:
       - name: Section
         start: 3:00 PM
         end: 4:15 PM
-        location: SCRB
+        location: Biolabs
       - name: Office Hours
         start: 4:15 PM
         end: 5:15 PM
