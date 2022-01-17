@@ -13,3 +13,5 @@ Apr 20
 
 Section
 : PSET 4 help
+: Final paper topic idea due to section leader this week
+: Present 1 slide of your paper topic / rough outline
