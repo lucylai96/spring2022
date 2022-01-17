@@ -28,7 +28,7 @@ schedule:
       - name: Office Hours
         start: 2:00 PM
         end: 3:30 PM
-        location: [Zoom](https://harvard.zoom.us/my/venki.murthy)
+        location: Zoom
   - name: Wednesday
     events:
       - name: Lecture
@@ -58,7 +58,7 @@ schedule:
       - name: Office Hours
         start: 4:15 PM
         end: 5:15 PM
-        location: Quincy DHall / [Zoom](https://harvard.zoom.us/my/lucylai)
+        location: Quincy DHall / Zoom
       
       
 ---
