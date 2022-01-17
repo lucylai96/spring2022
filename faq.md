@@ -40,7 +40,7 @@ We will use my.Harvard's sectioning tool to assign sections. You will be able to
 Pass / failing and auditing is by instructor permission only and under limited circumstances. Please email both [Prof. Murthy](mailto:vnmurthy@fas.harvard.edu) and [Lucy](mailto:lucylai@g.harvard.edu) with your specific situation. Remember, you are allowed to take 1 out of 4 of your Gen Ed courses as pass / fail during your time at Harvard.
 
 ## Where can I get extra help outside of section?
-Both Prof. Murthy and Lucy will host weekly office hours. Prof. Murthy's office hours will be XXX, and Lucy's will be Friday, 4:15-5:15PM in the Quincy DHall and by [Zoom](https://harvard.zoom.us/my/lucylai/).
+Both Prof. Murthy and Lucy will host weekly office hours. Prof. Murthy's office hours will be Tuesday, 2-3:30PM on [Zoom](https://harvard.zoom.us/my/venki.murthy), and Lucy's will be Friday, 4:15-5:15PM in the Quincy DHall and on [Zoom](https://harvard.zoom.us/my/lucylai/).
 
 ## Can I turn in my assignment late and still get credit?
 The late policy says that you will get 1 point deducted for every day that it is late. For example, if the pset is due Friday and you turn it in on Monday, you will be deducted 3 points from your final score. Remember, each pset is worth a total of 10 points. The latest you can turn a pset in and still recieve credit (with the late penalties) is the Wednesday after the pset is due @ 11:59PM.
