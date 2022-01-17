@@ -19,7 +19,7 @@ seo:
 {% endfor %}
 
 Here is a [PDF version](https://canvas.harvard.edu/files/14152907/download?download_frd=1) of the course schedule and syllabus.
-Here is the [Zoom Recording](https://canvas.harvard.edu/courses/97916/external_tools/71135) of the course preview, where Prof. Murthy gives an overview of the course.
+Here is the [Zoom Recording](https://harvard.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ea20130f-9f05-40ee-835b-ae1d0145500a) of the course preview, where Prof. Murthy gives an overview of the course.
 
 {% for module in site.modules %}
 {{ module }}
