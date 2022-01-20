@@ -3,7 +3,7 @@ title: Week 1 - Introduction
 ---
 
 Jan 24
-: **LEC 1**{: .label .label-grey} **[What is Intelligence?]**(#) 🎥  
+: **LEC 1**{: .label .label-grey} **[What is Intelligence?](#)** 🎥  
     : [Slides](#) 
 : Readings 📖
 : * [Could Machines Think?](https://canvas.harvard.edu/files/14184273/download?download_frd=1) from [_Artificial Intelligence_](https://us.macmillan.com/books/9780374715236/artificialintelligence)
