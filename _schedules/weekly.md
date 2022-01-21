@@ -22,7 +22,7 @@ schedule:
       - name: Lecture
         start: 3:00 PM
         end: 4:15 PM
-        location: Sever Hall 103
+        location: Science Center Hall E
   - name: Tuesday
     events:
       - name: Office Hours
@@ -34,11 +34,11 @@ schedule:
       - name: Lecture
         start: 3:00 PM
         end: 4:15 PM
-        location: Sever Hall 103
+        location: Science Center Hall E
       - name: Section
         start: 4:30 PM
         end: 5:45 PM
-        location: Sever Hall
+        location: TBD
   - name: Thursday
     events:
       - name: Section
@@ -59,10 +59,4 @@ schedule:
         start: 3:00 PM
         end: 4:15 PM
         location: Biolabs
-      - name: Office Hours
-        start: 4:15 PM
-        end: 5:15 PM
-        location: Quincy DHall / Zoom
-      
-      
 ---
