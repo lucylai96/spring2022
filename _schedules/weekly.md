@@ -46,6 +46,10 @@ schedule:
         end: 11:45 AM
         location: Biolabs
       - name: Section
+        start: 3:00 PM 
+        end: 4:45 PM
+        location: Biolabs
+      - name: Section
         start: 4:30 PM
         end: 5:45 PM
         location: Northwest Building
