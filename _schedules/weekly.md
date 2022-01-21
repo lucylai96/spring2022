@@ -47,7 +47,7 @@ schedule:
         location: Biolabs
       - name: Section
         start: 3:00 PM 
-        end: 4:45 PM
+        end: 4:15 PM
         location: Biolabs
       - name: Section
         start: 4:30 PM
