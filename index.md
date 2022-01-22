@@ -14,7 +14,7 @@ seo:
 {: .fs-6 .fw-300 }
 
 ### Instructor: Professor Venkatesh Murthy  ([vnmurthy@fas.harvard.edu](mailto:vnmurthy@fas.harvard.edu))
-### Lecture: M/W 3-4:15PM | Science Center Hall E ***FIRST LECTURE VIRTUAL***: [Zoom link on Canvas](https://canvas.harvard.edu/courses/97916/external_tools/71135)
+### Lecture: M/W 3-4:15PM | Science Center Hall E | ***FIRST LECTURE VIRTUAL***: [Zoom link on Canvas](https://canvas.harvard.edu/courses/97916/external_tools/71135)
 
 Here is a [PDF version](https://canvas.harvard.edu/files/14162472/download?download_frd=1) of the course schedule and syllabus.
 Here is the [Zoom Recording](https://harvard.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ea20130f-9f05-40ee-835b-ae1d0145500a) of the course preview, where Prof. Murthy gives an overview of the course.
