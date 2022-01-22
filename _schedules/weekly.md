@@ -38,7 +38,7 @@ schedule:
       - name: Section
         start: 4:30 PM
         end: 5:45 PM
-        location: TBD
+        location: Science Center
   - name: Thursday
     events:
       - name: Section
