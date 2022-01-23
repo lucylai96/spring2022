@@ -30,7 +30,7 @@ Lectures are held every Monday and Wednesday from 3-4:15PM in Science Center Hal
 Sections will be held by the course TFs on different days of the week. Section will be a mix of content review, group discussion, and going over problem sets. At the beginning of the semester, every student will be assigned a section (by rank-order preference) and section attendance is mandatory and part of your final grade. You must attend your own section to recieve credit. If you need to miss section for whatever reason, please email your section TF so that you can get caught up on the material for that week.
 
 ## Office Hours  ⏰
-Part of section every week will be dedicated to answering questions and clarifying course content. In addition to that, office hours will be held by Prof. Murthy and the Head TF, Lucy. Prof. Murthy will hold his office hours on Tuesday, 2-3:30PM on [Zoom](https://harvard.zoom.us/my/venki.murthy), and Lucy will hold hers on Friday, 4:15-5:15PM in the Quincy DHall and on [Zoom](https://harvard.zoom.us/my/lucylai).
+Part of section every week will be dedicated to answering questions and clarifying course content. In addition to that, Prof. Murthy will hold office hours Tuesdays, 2-3:30PM on [Zoom](https://harvard.zoom.us/my/venki.murthy).
 
 ## Class Notes 🗒️
 Class notes and material will be released and linked on the course website.
