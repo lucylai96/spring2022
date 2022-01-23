@@ -37,26 +37,26 @@ schedule:
         location: Science Center Hall E
       - name: Section
         start: 4:30 PM
-        end: 5:45 PM
+        end: 5:30 PM
         location: Science Center
   - name: Thursday
     events:
       - name: Section
         start: 10:30 AM
-        end: 11:45 AM
+        end: 11:30 AM
         location: Biolabs
       - name: Section
         start: 3:00 PM 
-        end: 4:15 PM
+        end: 4:00 PM
         location: Biolabs
       - name: Section
         start: 4:30 PM
-        end: 5:45 PM
+        end: 5:30 PM
         location: Northwest Building
   - name: Friday
     events:
       - name: Section
         start: 3:00 PM
-        end: 4:15 PM
+        end: 4:00 PM
         location: Biolabs
 ---
