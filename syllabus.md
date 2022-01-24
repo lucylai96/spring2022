@@ -36,7 +36,7 @@ Part of section every week will be dedicated to answering questions and clarifyi
 Class notes and material will be released and linked on the course website.
 
 ## Assignments 📝
-Problem sets will be a mix of short-form discussion questions and simple technical problems. 
+Problem sets will be a mix of short-form discussion questions and simple technical problems. No coding knowledge is needed; everything you will need to know to do the problem sets will be covered in lecture / section. **Late policy:** You are allowed one (1) late pass for problem sets (up to two days). After that, 1 point will be deducted off your problem set grade for each subsequent day that it is late.
 
 ## Course Prerequisites ➰
 There are no formal prerequisites to this course, and students do not need to be from a technical or science background. Some basic high school math may be required for some problem sets.
@@ -73,7 +73,7 @@ All problem sets due on Friday at 11:59pm
 | 04/27          | Paper proposal due (in Section)                                                                   |
 | **05/09**      | Final paper due                                                                                   |
 
-**Late policy:** You are allowed one (1) late pass for problem sets. After that, 1 point will be deducted off your problem set grade for each subsequent day that it is late.
+ **Late policy:** You are allowed one (1) late pass for problem sets (up to two days). After that, 1 point will be deducted off your problem set grade for each subsequent day that it is late.
 
 ## Collaboration and Academic Integrity 👨🏻‍💻
 Discussion and the exchange of ideas are essential to doing academic work. For assignments in this course, you are encouraged to consult with your classmates as you work on problem sets and exercises. However, after discussions with peers and/or TFs, make sure that you can work through the problem yourself and ensure that any answers you submit for evaluation are the result of your own efforts. If any books, articles, websites, lectures, etc that have significantly helped you with your work, please use appropriate citation practices. Be sure to familiarize yourself with the [Harvard honor code](https://honor.fas.harvard.edu/honor-code), and follow it.
