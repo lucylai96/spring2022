@@ -47,4 +47,4 @@ Pass / failing and auditing is by instructor permission only and under limited c
 Prof. Murthy will host weekly office hours Tuesday, 2-3:30PM on [Zoom](https://harvard.zoom.us/my/venki.murthy).
 
 ## Can I turn in my assignment late and still get credit?
-The late policy says that you will get 1 point deducted for every day that it is late. For example, if the pset is due Friday and you turn it in on Monday, you will be deducted 3 points from your final score. Remember, each pset is worth a total of 10 points. The latest you can turn a pset in and still recieve credit (with the late penalties) is the Wednesday after the pset is due @ 11:59PM.
+The late policy says that you get 1 "free pass" for a late assignment (up to 2 days). After that, any late assignment will get 1 point deducted for every day that it is late. For example, if the pset is due Friday and you turn it in on Monday, you will be deducted 3 points from your final score. Remember, each pset is worth a total of 10 points. The latest you can turn a pset in and still recieve credit (with the late penalties) is the Wednesday after the pset is due @ 11:59PM.
