@@ -13,7 +13,7 @@ Jan 24
 
 Jan 26
 : **LEC 2**{: .label .label-grey} **[With Great Power Comes Great Responsibility](#)** 🎥 
-    : [Slides](#) 
+    : [Slides](https://canvas.harvard.edu/files/14225197/download?download_frd=1) 
 : Readings 📖
 : * [Agency and the Algorithm](https://canvas.harvard.edu/files/14218470/download?download_frd=1)
 : * [Assessing Risk, Automating Racism](https://canvas.harvard.edu/files/14218471/download?download_frd=1)
