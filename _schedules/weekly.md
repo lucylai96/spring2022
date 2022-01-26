@@ -28,7 +28,7 @@ schedule:
       - name: Office Hours
         start: 2:00 PM
         end: 3:30 PM
-        location: Zoom
+        location: Prof. Murthy's Zoom
   - name: Wednesday
     events:
       - name: Lecture
@@ -38,25 +38,25 @@ schedule:
       - name: Section
         start: 4:30 PM
         end: 5:30 PM
-        location: Science Center
+        location: Science Center 105 & 113
   - name: Thursday
     events:
       - name: Section
         start: 10:30 AM
         end: 11:30 AM
-        location: Biolabs
+        location: Biolabs 2064
       - name: Section
         start: 1:30 PM 
         end: 2:30 PM
-        location: Biolabs
+        location: Biolabs 2064
       - name: Section
         start: 4:30 PM
         end: 5:30 PM
-        location: Northwest Building
+        location: Northwest Building 243
   - name: Friday
     events:
       - name: Section
         start: 3:00 PM
         end: 4:00 PM
-        location: Biolabs
+        location: Biolabs 2064
 ---
