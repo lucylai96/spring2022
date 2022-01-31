@@ -10,10 +10,10 @@ Jan 31
 : * [Lecture Notes](https://canvas.harvard.edu/files/14251627/download?download_frd=1) written by a former GenEd 1125 student!
 
 Feb 2
-:  **LEC 4**{: .label .label-grey } Guest Lecturer
+:  **LEC 4**{: .label .label-grey } Guest Lecturer - [Jeff Lichtman](https://lichtmanlab.fas.harvard.edu/) (Harvard University)
 :  **PSET 1 handed out**{: .label .label-green } Covers lectures 1-4
 
 Section
 : Section begins this week!
 : Introduction, purpose of section
-: Discussion: Marr's levels, AI ethics 
+: Discussion: What is intelligence?, Marr's levels, AI ethics 
