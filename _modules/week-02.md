@@ -12,6 +12,7 @@ Jan 31
 Feb 2
 :  **LEC 4**{: .label .label-grey } Guest Lecturer - [Jeff Lichtman](https://lichtmanlab.fas.harvard.edu/) (Harvard University)
 :  **PSET 1 handed out**{: .label .label-green } Covers lectures 1-4
+    : [PSET 1]()
 
 Section
 : Section begins this week!
