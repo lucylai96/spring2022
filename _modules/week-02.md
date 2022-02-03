@@ -10,7 +10,7 @@ Jan 31
 : * [Lecture Notes](https://canvas.harvard.edu/files/14251627/download?download_frd=1) written by a former GenEd 1125 student!
 
 Feb 2
-:  **LEC 4**{: .label .label-grey } [Guest Lecturer - Jeff Lichtman (Harvard University)](https://harvard.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c985f118-1a40-4f56-a6cc-ae2b0161236b)
+:  **LEC 4**{: .label .label-grey } **[Guest Lecturer - Jeff Lichtman (Harvard University)](https://harvard.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c985f118-1a40-4f56-a6cc-ae2b0161236b)** 🎥
 :  **PSET 1 handed out**{: .label .label-green } Covers lectures 1-4
     : [PSET 1](https://canvas.harvard.edu/files/14275242/download?download_frd=1) / [no blank space](https://canvas.harvard.edu/files/14275241/download?download_frd=1) / [tex](https://canvas.harvard.edu/files/14277037/download?download_frd=1)
 
