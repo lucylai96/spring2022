@@ -6,7 +6,7 @@ Feb 7
 : **LEC 5**{: .label .label-grey } [The Architecture of the Brain](#)
      : [Slides]()
 : Readings 📖
-: * [Architectures of Neuronal Circuits]https://canvas.harvard.edu/files/14290087/download?download_frd=1
+: * [Architectures of Neuronal Circuits](https://canvas.harvard.edu/files/14290087/download?download_frd=1)
 
 Feb 9
 :  **LEC 6**{: .label .label-grey } [The Building Blocks of Neural Networks](#)
