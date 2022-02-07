@@ -16,5 +16,6 @@ Feb 11
     : [Submit PSET 1](https://canvas.harvard.edu/courses/97916/assignments/532854)
 
 Section
-: Discussion: Brain vs. neural network organization
+: Activity: Neural circuits 
+: Activity: Neural network architecture
 : PSET 1 help
