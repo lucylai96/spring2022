@@ -10,6 +10,8 @@ Feb 7
 
 Feb 9
 :  **LEC 6**{: .label .label-grey } [The Building Blocks of Neural Networks](#)
+: Readings 📖
+: * [Blog Post - A Beginner Introduction to Neural Networks](https://purnasaigudikandula.medium.com/a-beginner-intro-to-neural-networks-543267bda3c8)
 
 Feb 11
 :  **PSET 1 DUE @ 11:59**{: .label .label-red } 
