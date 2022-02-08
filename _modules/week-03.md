@@ -10,6 +10,7 @@ Feb 7
 
 Feb 9
 :  **LEC 6**{: .label .label-grey } [The Building Blocks of Neural Networks](#)
+     : [Slides](#)
 : Readings 📖
 : * [Blog Post - A Beginner Introduction to Neural Networks](https://purnasaigudikandula.medium.com/a-beginner-intro-to-neural-networks-543267bda3c8)
 : * [Using Neural Nets to Recognize Handwritten Digits](http://neuralnetworksanddeeplearning.com/chap1.html) (Read up to "Learning with gradient descent")
