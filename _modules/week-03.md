@@ -9,7 +9,7 @@ Feb 7
 : * [Architectures of Neuronal Circuits](https://canvas.harvard.edu/files/14290087/download?download_frd=1) (Please read at least page 1)
 
 Feb 9
-:  **LEC 6**{: .label .label-grey } [The Building Blocks of Neural Networks](#)
+:  **LEC 6**{: .label .label-grey } [The Building Blocks of Neural Networks](https://harvard.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=0c42438e-b119-483a-b558-ae2b0161239e)
      : [Slides](https://canvas.harvard.edu/files/14319074/download?download_frd=1)
 : Readings 📖
 : * [Blog Post - A Beginner Introduction to Neural Networks](https://purnasaigudikandula.medium.com/a-beginner-intro-to-neural-networks-543267bda3c8)
