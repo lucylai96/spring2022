@@ -3,8 +3,8 @@ title: Week 4 - The Building Blocks of Biological and Artificial Intelligence (C
 ---
 
 Feb 14
-: **LEC 7**{: .label .label-grey } [How Networks Learn](https://canvas.harvard.edu/files/14351127/download?download_frd=1)
-    : [Slides]()
+: **LEC 7**{: .label .label-grey }
+    : [Slides](How Networks Learn](https://canvas.harvard.edu/files/14351127/download?download_frd=1))
 : Readings 📖
 : * [Deep Learning Book - Intro](https://www.deeplearningbook.org/contents/intro.html)
 : * [Blog Post - Data Annotation](https://medium.com/vsinghbisen/why-data-annotation-is-important-for-machine-learning-and-ai-5e647637c621) 
