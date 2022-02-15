@@ -10,9 +10,9 @@ Feb 14
 : * [Blog Post - Data Annotation](https://medium.com/vsinghbisen/why-data-annotation-is-important-for-machine-learning-and-ai-5e647637c621) 
 
 Feb 16
-:  **LEC 8**{: .label .label-grey } Guest Lecturer
+:  **LEC 8**{: .label .label-grey } Guest Lecturer - Cengiz Pehlevan
 :  **PSET 2 handed out**{: .label .label-green} Covers lectures 5-8
 
 Section
 : Discuss PSET 1
-: Backprop 
+: Gradient descent & backprop review
