@@ -12,7 +12,9 @@ Feb 14
 Feb 16
 :  **LEC 8**{: .label .label-grey } Guest Lecturer - Cengiz Pehlevan
 :  **PSET 2 handed out**{: .label .label-green} Covers lectures 5-8
+    : [PSET 2](https://canvas.harvard.edu/files/14377922/download?download_frd=1) / [no blank space](https://canvas.harvard.edu/files/14377836/download?download_frd=1) / [tex](https://canvas.harvard.edu/files/14377894/download?download_frd=1)
 
 Section
 : Discuss PSET 1
 : Gradient descent & backprop review
+: MNIST demo
