@@ -12,7 +12,7 @@ Feb 14
 Feb 16
 :  **LEC 8**{: .label .label-grey } **[Guest Lecturer - Cengiz Pehlevan](https://harvard.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ef86d70c-2717-43c2-b021-ae2b016123d0)** 🎥
 :  **PSET 2 handed out**{: .label .label-green} Covers lectures 5-8
-    : [PSET 2](https://canvas.harvard.edu/files/14379408/download?download_frd=1) / [no blank space](https://canvas.harvard.edu/files/14379406/download?download_frd=1) / [tex](https://canvas.harvard.edu/files/14379452/download?download_frd=1)
+    : [PSET 2](https://canvas.harvard.edu/files/14382306/download?download_frd=1) / [no blank space](https://canvas.harvard.edu/files/14382304/download?download_frd=1) / [tex](https://canvas.harvard.edu/files/14382343/download?download_frd=1)
 
 Section
 : Discuss PSET 1
