@@ -7,6 +7,10 @@ Feb 21
 
 Feb 23
 :  **LEC 9**{: .label .label-grey } [Primary Visual Cortex and Convolutional Neural Networks (CNNs)](#)
+    : Slides(#)
+: Readings 📖
+: 
+:
 
 Feb 25
 :  **PSET 2 DUE @ 11:59PM**{: .label .label-red } 
