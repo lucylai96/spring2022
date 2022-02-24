@@ -6,7 +6,7 @@ Feb 21
 : **No Class -- President's Day**
 
 Feb 23
-:  **LEC 9**{: .label .label-grey } [Primary Visual Cortex and Convolutional Neural Networks (CNNs)](#)
+:  **LEC 9**{: .label .label-grey } **[Primary Visual Cortex and Convolutional Neural Networks (CNNs)]https://harvard.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=debfe25b-abc3-4790-9d09-ae2b01612400)** 🎥
     : [Slides](https://canvas.harvard.edu/files/14442916/download?download_frd=1)
 : Readings 📖
 : * [The Neuroscience of Vision](https://canvas.harvard.edu/files/14406796/download?download_frd=1)
