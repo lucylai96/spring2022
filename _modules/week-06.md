@@ -10,8 +10,8 @@ Feb 28
     : [Slides](https://canvas.harvard.edu/files/14468459/download?download_frd=1)
 
 Mar 2
-:  **LEC 11**{: .label .label-grey } **[Dimensionality Reduction and Invariant Representations](#)**
-    : [Slides](#)
+:  **LEC 11**{: .label .label-grey } **[Dimensionality Reduction and Invariant Representations](#)** 🎥
+    : [Slides](https://canvas.harvard.edu/files/14477675/download?download_frd=1)
 : Readings 📖
 : * [A beginner’s guide to dimensionality reduction in machine learning](https://canvas.harvard.edu/files/14472118/download?download_frd=1)
 : * [Making faces in the brain](https://canvas.harvard.edu/files/14472119/download?download_frd=1)
