@@ -10,7 +10,7 @@ Jan 31
 : * [Lecture Notes](https://canvas.harvard.edu/files/14251627/download?download_frd=1) written by a former GenEd 1125 student!
 
 Feb 2
-:  **LEC 4**{: .label .label-grey } **[Guest Lecturer - Jeff Lichtman (Harvard University)](https://harvard.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c985f118-1a40-4f56-a6cc-ae2b0161236b)** 🎥
+:  **LEC 4**{: .label .label-grey } **[Guest Lecturer - Jeff Lichtman (Harvard)](https://harvard.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c985f118-1a40-4f56-a6cc-ae2b0161236b)** 🎥
 : Papers mentioned in Prof. Lichtman's talk 📄
 : * [A Technicolor Approach to the Connectome](https://canvas.harvard.edu/files/14287742/download?download_frd=1)
 : * [The Interscutularis Muscle Connectome](https://canvas.harvard.edu/files/14287744/download?download_frd=1)
