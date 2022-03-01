@@ -15,4 +15,4 @@ Mar 2
 
 Section
 : Discuss PSET 2
-: Midterm review & prep
+: PCA, Invariant representations
