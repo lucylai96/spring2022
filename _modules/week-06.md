@@ -16,7 +16,7 @@ Mar 2
 : * [A beginner’s guide to dimensionality reduction in machine learning](https://canvas.harvard.edu/files/14472118/download?download_frd=1)
 : * [Making faces in the brain](https://canvas.harvard.edu/files/14472119/download?download_frd=1)
 :  **(Take-home) MIDTERM handed out**{: .label .label-green } 
-    : Midterm / tex
+    : [Midterm](https://canvas.harvard.edu/files/14488382/download?download_frd=1) / [tex](https://canvas.harvard.edu/files/14488384/download?download_frd=1)
 
 Section
 : Discuss PSET 2
