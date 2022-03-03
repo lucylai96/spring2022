@@ -3,7 +3,7 @@ title: Week 13 - Towards General AI & What is Missing?
 ---
 
 Apr 25
-: **LEC 24**{: .label .label-grey } [Building Machines That Think Like Humans](#)
+: **LEC 24**{: .label .label-grey } [Guest Lecturer - Josh Tenenbaum](#)
 
 
 Apr 27
