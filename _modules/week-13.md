@@ -3,7 +3,7 @@ title: Week 13 - Towards General AI & What is Missing?
 ---
 
 Apr 25
-: **LEC 24**{: .label .label-grey } [Guest Lecturer - Josh Tenenbaum](#)
+: **LEC 24**{: .label .label-grey } [Guest Lecturer - Josh Tenenbaum (MIT)](#)
 
 
 Apr 27
