@@ -4,7 +4,7 @@ title: Week 7 - Language in Brains and Machines
 
 Mar 7
 : **LEC 12**{: .label .label-grey } [Natural Language and Communication](#)
-    : [Slides]()
+    : [Slides](https://canvas.harvard.edu/files/14511816/download?download_frd=1)
 
 
 Mar 9
