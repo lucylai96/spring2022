@@ -3,14 +3,15 @@ title: Week 7 - Language in Brains and Machines
 ---
 
 Mar 7
-: **LEC 12**{: .label .label-grey } [Natural Language and Communication](#)
+: **LEC 12**{: .label .label-grey } [Natural Language and Communication](#) 🎥
     : [Slides](https://canvas.harvard.edu/files/14511816/download?download_frd=1)
 : Readings 📖
 : * [Bird Communication](https://canvas.harvard.edu/files/14511812/download?download_frd=1)
 : * [Human Language](https://canvas.harvard.edu/files/14511810/download?download_frd=1)
 
 Mar 9
-:  **LEC 13**{: .label .label-grey } [Understanding Language](#)
+:  **LEC 13**{: .label .label-grey } [Understanding Language](#) 🎥
+: Readings 📖
     : [Slides]()
     
 Mar 11
@@ -18,4 +19,4 @@ Mar 11
     : [Submit MIDTERM](https://canvas.harvard.edu/courses/97916/assignments/532853)
 
 Section
-: Section OPTIONAL---Midterm office hourse & help
+: Section OPTIONAL---Midterm office hours & help
