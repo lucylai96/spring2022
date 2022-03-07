@@ -6,8 +6,8 @@ Mar 7
 : **LEC 12**{: .label .label-grey } [Natural Language and Communication](#)
     : [Slides](https://canvas.harvard.edu/files/14511816/download?download_frd=1)
 : Readings 📖
-: * [Bird_communication](https://canvas.harvard.edu/files/14511812/download?download_frd=1)
-: * [Human_Language](https://canvas.harvard.edu/files/14511810/download?download_frd=1)
+: * [Bird Communication](https://canvas.harvard.edu/files/14511812/download?download_frd=1)
+: * [Human Language](https://canvas.harvard.edu/files/14511810/download?download_frd=1)
 
 Mar 9
 :  **LEC 13**{: .label .label-grey } [Understanding Language](#)
