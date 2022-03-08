@@ -11,9 +11,9 @@ Mar 7
 
 Mar 9
 :  **LEC 13**{: .label .label-grey } [Language and Machines](#)
-: Readings 📖
     : [Slides](https://canvas.harvard.edu/files/14530587/download?download_frd=1)
-    
+: Readings 📖
+
 Mar 11
 :  **MIDTERM DUE @ 11:59PM**{: .label .label-red }
     : [Submit MIDTERM](https://canvas.harvard.edu/courses/97916/assignments/532853)
