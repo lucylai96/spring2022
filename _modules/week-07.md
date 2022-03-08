@@ -10,7 +10,7 @@ Mar 7
 : * [Human Language](https://canvas.harvard.edu/files/14511810/download?download_frd=1)
 
 Mar 9
-:  **LEC 13**{: .label .label-grey } [Understanding Language](#) 🎥
+:  **LEC 13**{: .label .label-grey } [Understanding Language](#)
 : Readings 📖
     : [Slides]()
     
