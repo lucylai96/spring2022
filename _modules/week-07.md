@@ -3,7 +3,7 @@ title: Week 7 - Language in Brains and Machines
 ---
 
 Mar 7
-: **LEC 12{: .label .label-grey } [Natural Language and Communication](https://harvard.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=2bb90c3f-6ff6-452f-ada7-ae2b0161244d)** 🎥
+: **LEC 12**{: .label .label-grey } **[Natural Language and Communication](https://harvard.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=2bb90c3f-6ff6-452f-ada7-ae2b0161244d)** 🎥
     : [Slides](https://canvas.harvard.edu/files/14511816/download?download_frd=1)
 : Readings 📖
 : * [Bird Communication](https://canvas.harvard.edu/files/14511812/download?download_frd=1)
