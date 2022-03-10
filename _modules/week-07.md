@@ -10,7 +10,7 @@ Mar 7
 : * [Human Language](https://canvas.harvard.edu/files/14511810/download?download_frd=1)
 
 Mar 9
-:  **LEC 13**{: .label .label-grey } [Language and Machines](#)
+:  **LEC 13**{: .label .label-grey } **[Language and Machines](https://harvard.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a8d275ff-9a5d-48d6-89f3-ae2b01612466)** 🎥
     : [Slides](https://canvas.harvard.edu/files/14533268/download?download_frd=1)
 : Readings 📖
 : * [Guide to NLP](https://canvas.harvard.edu/files/14530620/download?download_frd=1)
