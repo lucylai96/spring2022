@@ -6,6 +6,7 @@ Mar 21
 : **LEC 14**{: .label .label-grey } **[Reinforcement Learning: Learning Actions and Values](#)** 🎥
     : [Slides](#)
 : Readings 📖
+: * [A brief introduction to reinforcement learning](https://www.freecodecamp.org/news/a-brief-introduction-to-reinforcement-learning-7799af5840db/)
 
 Mar 23
 :  **LEC 15**{: .label .label-grey } **[RL in the Brain: The Computational Role of Dopamine](#)** 🎥
