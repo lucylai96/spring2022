@@ -10,9 +10,10 @@ Mar 21
 
 Mar 23
 :  **LEC 15**{: .label .label-grey } [RL in the Brain: The Computational Role of Dopamine](#)
-    : [Slides](#)
+    : [Slides](https://canvas.harvard.edu/files/14601902/download?download_frd=1)
 : Readings 📖
 : * [A Neural Substrate of Prediction and Reward](https://canvas.harvard.edu/files/14576349/download?download_frd=1)
 
 Section
 : Discuss MIDTERM
+: Reinforcement learning policies, Modeling addiction
