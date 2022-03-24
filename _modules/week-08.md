@@ -10,7 +10,7 @@ Mar 21
 
 Mar 23
 :  **LEC 15**{: .label .label-grey } **[RL in the Brain: The Computational Role of Dopamine](https://harvard.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=18c25a9d-4f17-4c71-aa16-ae2b016124ea)** 🎥
-    : [Slides](https://canvas.harvard.edu/files/14604868/download?download_frd=1)
+    : [Slides](https://canvas.harvard.edu/files/14612397/download?download_frd=1)
 : Readings 📖
 : * [A Neural Substrate of Prediction and Reward](https://canvas.harvard.edu/files/14576349/download?download_frd=1)
 
