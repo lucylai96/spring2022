@@ -3,7 +3,7 @@ title: Week 9 - Applications
 ---
 
 Mar 28
-: **LEC 16**{: .label .label-grey } **[Learning To Play Complex Games](https://harvard.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=01835437-61ee-4a81-83eb-ae2b01612502)** 
+: **LEC 16**{: .label .label-grey } **[Learning To Play Complex Games](https://harvard.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=01835437-61ee-4a81-83eb-ae2b01612502)** 🎥
   : [Slides](https://canvas.harvard.edu/files/14629500/download?download_frd=1)
 : Readings 📖
 : * [Learning to See and Act (Atari Games)](https://canvas.harvard.edu/files/14620021/download?download_frd=1)
