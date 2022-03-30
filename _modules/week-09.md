@@ -14,6 +14,7 @@ Mar 30
   : [Slides](https://canvas.harvard.edu/files/14647593/download?download_frd=1)
 
 : **PSET 3 handed out**{: .label .label-green } Covers lectures 14-17
+  : [PSET 3](https://canvas.harvard.edu/files/14655618/download?download_frd=1) / [tex](https://canvas.harvard.edu/files/14655619/download?download_frd=1)
 
 Section
-:
+: AI vs. humans in complex game play, Kalman filter
