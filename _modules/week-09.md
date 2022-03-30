@@ -10,7 +10,7 @@ Mar 28
 : * [A Brief History of Game AI](https://www.andreykurenkov.com/writing/ai/a-brief-history-of-game-ai/)
 
 Mar 30
-: **LEC 17**{: .label .label-grey } [Learning How To Drive A Car](#)
+: **LEC 17**{: .label .label-grey } **[Learning How To Drive A Car](https://harvard.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=3847632c-49d8-47aa-a204-ae2b0161251e)** 🎥
   : [Slides](https://canvas.harvard.edu/files/14647593/download?download_frd=1)
 
 : **PSET 3 handed out**{: .label .label-green } Covers lectures 14-17
