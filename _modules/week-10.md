@@ -4,7 +4,7 @@ title: Week 10 - What Does The Black Box Do?
 
 Apr 4
 : **LEC 18**{: .label .label-grey } [Mind-Reading](#)
-
+: **Final paper**{: .label .label-green } [Guidelines](https://canvas.harvard.edu/files/14669119/download?download_frd=1)
 
 Apr 6
 : **LEC 19**{: .label .label-grey } [Interpreting Machines](#)
