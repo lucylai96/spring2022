@@ -6,7 +6,7 @@ Apr 4
 : **LEC 18**{: .label .label-grey } [Mind-Reading](#)
   : [Slides](#)
 : Readings 📖
-: * [Mind Reading and Writing)](https://canvas.harvard.edu/files/14672393/download?download_frd=1)
+: * [Mind Reading and Writing](https://canvas.harvard.edu/files/14672393/download?download_frd=1)
 : * [Computer Mouse Inside your Head](https://canvas.harvard.edu/files/14672423/download?download_frd=1)
 
 : **Final Paper / Project**{: .label .label-green } [Guidelines](https://canvas.harvard.edu/files/14669161/download?download_frd=1)
