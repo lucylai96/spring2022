@@ -13,7 +13,7 @@ Apr 4
 
 Apr 6
 : **LEC 19**{: .label .label-grey } [Interpreting Machines](#)
-: [Slides](#)
+  : [Slides](#)
 : Readings 📖
 : * [Towards a Rigorous Science of ML (read up to end of section 2)](https://canvas.harvard.edu/files/14672412/download?download_frd=1)
 : * [Introduction to Interpretable ML](https://petuum.medium.com/introduction-to-interpretable-machine-learning-3a62870f2f37)
