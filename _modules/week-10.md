@@ -12,7 +12,7 @@ Apr 4
 : **Final Paper / Project**{: .label .label-green } [Guidelines](https://canvas.harvard.edu/files/14669161/download?download_frd=1)
 
 Apr 6
-: **LEC 19**{: .label .label-grey } [Interpreting Machines](#)
+: **LEC 19**{: .label .label-grey } **[Interpreting Machines](https://harvard.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=5842aada-2d5f-4d0d-a25d-ae2b01612550)**
   : [Slides](https://canvas.harvard.edu/files/14701899/download?download_frd=1)
 : Readings 📖
 : * [Towards a Rigorous Science of ML (read up to end of section 2)](https://canvas.harvard.edu/files/14672412/download?download_frd=1)
