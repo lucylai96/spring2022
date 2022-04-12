@@ -11,6 +11,7 @@ Apr 11
 
 Apr 13
 : **LEC 21**{: .label .label-grey } [Human & Algorithmic Biases](#)
+  : [Slides](https://canvas.harvard.edu/files/14744439/download?download_frd=1)
 : Readings 📖
 : * [Illusions](https://www.vox.com/science-and-health/20978285/optical-illusion-science-humility-reality-polarization)
 : * [Fairness in ML](https://canvas.harvard.edu/files/14742396/download?download_frd=1)
