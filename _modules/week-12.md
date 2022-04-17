@@ -3,7 +3,7 @@ title: Week 12 - Reality?
 ---
 
 Apr 18
-: **LEC 22**{: .label .label-grey } [ Is This The Real Life? Is This Just Fantasy?](#)
+: **LEC 22**{: .label .label-grey } [Dreams in Brains and Machines](#)
 
 
 Apr 20
