@@ -4,7 +4,7 @@ title: Week 12 - Reality?
 
 Apr 18
 : **LEC 22**{: .label .label-grey } [Dreams in Brains and Machines](#)
-  : [Slides](#)
+  : [Slides](https://canvas.harvard.edu/files/14782115/download?download_frd=1)
 : Readings 📖
 : * [Sleep, Learning and Dreams](https://canvas.harvard.edu/files/14781104/download?download_frd=1) 
 : * [When Robots Hallucinate](https://www.theatlantic.com/technology/archive/2015/09/robots-hallucinate-dream/403498/)
