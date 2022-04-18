@@ -12,6 +12,10 @@ Apr 18
 
 Apr 20
 : **LEC 23**{: .label .label-grey } [What is Consciousness, and Can Machines Have It?](#)
+  : [Slides](#)
+: Readings 📖
+: * [Tale of Two Halves](https://canvas.harvard.edu/files/14788558/download?download_frd=1)
+: * [What is Consciousness](https://canvas.harvard.edu/files/14788557/download?download_frd=1)
 
 Apr 22
 : **PSET 4 DUE @ 11:59PM**{: .label .label-red }
