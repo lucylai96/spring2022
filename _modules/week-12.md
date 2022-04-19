@@ -3,7 +3,7 @@ title: Week 12 - Reality?
 ---
 
 Apr 18
-: **LEC 22**{: .label .label-grey } **[Dreams in Brains and Machines](https://harvard.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ab967687-b04b-4c8b-92c2-ae2b016125a0)**
+: **LEC 22**{: .label .label-grey } **[Dreams in Brains and Machines](https://harvard.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ab967687-b04b-4c8b-92c2-ae2b016125a0)** 🎥 
   : [Slides](https://canvas.harvard.edu/files/14782115/download?download_frd=1)
 : Readings 📖
 : * [Sleep, Learning and Dreams](https://canvas.harvard.edu/files/14781104/download?download_frd=1) 
