@@ -11,7 +11,7 @@ Apr 18
 : * [Replay in Brains and Machines](https://www.deepmind.com/blog/replay-in-biological-and-artificial-neural-networks)
 
 Apr 20
-: **LEC 23**{: .label .label-grey } [What is Consciousness, and Can Machines Have It? - Lucy Lai](#)
+: **LEC 23**{: .label .label-grey } [What is Consciousness, and Can Machines Have It?](#)
   : [Slides](https://canvas.harvard.edu/files/14800405/download?download_frd=1)
 : Readings 📖
 : * [Tale of Two Halves](https://canvas.harvard.edu/files/14788558/download?download_frd=1)
