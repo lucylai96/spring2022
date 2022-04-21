@@ -16,6 +16,7 @@ Apr 20
 : Readings 📖
 : * [Tale of Two Halves](https://canvas.harvard.edu/files/14788558/download?download_frd=1)
 : * [What is Consciousness](https://canvas.harvard.edu/files/14788557/download?download_frd=1)
+: * [Why AGI will not be realized](https://canvas.harvard.edu/files/14814418/download?download_frd=1)
 
 Apr 22
 : **PSET 4 DUE @ 11:59PM**{: .label .label-red }
