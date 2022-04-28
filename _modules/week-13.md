@@ -9,7 +9,7 @@ Apr 25
 
 Apr 27
 :  **[Course Summary & Feedback](https://harvard.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=16a7191f-97a8-4558-823f-ae2b016125ec)** 🎥
-: [End-of-year course feedback form](https://forms.gle/5Zty8GS2mdzYQLiW7)
+: {: .label .label-green } Feedback [End-of-year course feedback form](https://forms.gle/5Zty8GS2mdzYQLiW7)
 
 Section
 : No section this week!
