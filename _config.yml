@@ -18,7 +18,7 @@ tagline: Artificial and Natural Intelligence 🧠🤖
 description: What does it mean for a machine to be intelligent, how does current artificial intelligence compare with animal intelligence, and should we be worried?
 author: Lucy Lai
 baseurl: '/spring2022' # the subpath of your site, e.g. /blog
-url: 'https://gened1125.github.io' # the base hostname & protocol for your site, e.g. http://example.com
+url: 'https://lucy-lai.com' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
 
 # Theme settings
